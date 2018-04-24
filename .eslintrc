@@ -1,0 +1,15 @@
+{
+    "extends": "airbnb",
+    "rules": {
+        "arrow-parens": [
+            "error",
+            "always"
+        ],
+        "import/prefer-default-export": 0,
+        "react/jsx-filename-extension": 0
+    },
+    "env": {
+        "browser": true,
+        "jest": true
+    }
+}

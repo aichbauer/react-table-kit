@@ -1,0 +1,87 @@
+{
+  "name": "react-table-kit",
+  "version": "0.0.0",
+  "description": "A react table component with custom components support and functionality to sort, search, export data, ...",
+  "main": "./src/index.js",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "storybook": "start-storybook -p 9001 -c .storybook",
+    "storybook-build": "build-storybook -c .storybook -o ./docs",
+    "pretest": "npm run build && npm run lint",
+    "lint": "eslint src",
+    "test": "jest --coverage --env=jsdom",
+    "build": "rm -rf lib; babel src --out-dir lib",
+    "prepublish": "npm run build"
+  },
+  "keywords": [
+    "react",
+    "table",
+    "react-table-kit",
+    "datagrid",
+    "component",
+    "data",
+    "sort",
+    "search",
+    "export",
+    "csv"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aichbauer/react-table-kit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aichbauer/react-table-kit/issues"
+  },
+  "homepage": "https://aichbauer.github.io/react-table-kit",
+  "jest": {
+    "globals": {
+      "__DEV__": true
+    },
+    "setupFiles": [
+      "./test/helpers/mocks.js"
+    ],
+    "testEnvironment": "node",
+    "testPathIgnorePatterns": [
+      "/node_modules/"
+    ]
+  },
+  "devDependencies": {
+    "@storybook/addon-options": "^3.4.0",
+    "@storybook/addons": "^3.4.0",
+    "@storybook/react": "^3.3.15",
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-es2017": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.9.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.7.0",
+    "faker": "^4.1.0",
+    "jest": "^22.4.3",
+    "react-test-renderer": "^16.3.1",
+    "storybook-readme": "^3.3.0",
+    "styled-button-component": "^1.3.0",
+    "styled-components": "^3.2.3",
+    "styled-form-component": "^1.3.0",
+    "styled-system": "^2.2.1",
+    "styled-table-component": "^1.2.0"
+  },
+  "dependencies": {
+    "array-table-search": "^1.0.0",
+    "array-table-sort": "^1.0.0",
+    "convert-array-to-csv": "^1.0.0",
+    "js-file-download": "^0.4.1",
+    "prop-types": "^15.6.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-icons": "^2.2.7"
+  }
+}

@@ -1,0 +1,2545 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TableProvider | exportToCSV 1`] = `
+<div>
+  <button
+    className="button"
+    onClick={[Function]}
+    value="Export CSV test"
+  >
+    Export CSV test
+  </button>
+  <input
+    className="table-search"
+    onChange={[Function]}
+    placeholder="Search table test"
+    type="text"
+    value=""
+  />
+  <table
+    className="table"
+  >
+    <thead>
+      <tr
+        className="trHead"
+      >
+        <td
+          className="th"
+        >
+          #
+          <span
+            onClick={[Function]}
+            onKeyDown={[Function]}
+            role="button"
+            style={
+              Object {
+                "color": "grey",
+                "cursor": "pointer",
+                "fontSize": "0.5rem",
+                "margin": "1rem",
+              }
+            }
+            tabIndex="0"
+          >
+            <span>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
+                  />
+                </g>
+              </svg>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
+                  />
+                </g>
+              </svg>
+            </span>
+          </span>
+          <input
+            className="col-search"
+            onChange={[Function]}
+            placeholder="Search column test"
+            type="text"
+            value=""
+          />
+        </td>
+        <td
+          className="th"
+        >
+          First
+          <span
+            onClick={[Function]}
+            onKeyDown={[Function]}
+            role="button"
+            style={
+              Object {
+                "color": "grey",
+                "cursor": "pointer",
+                "fontSize": "0.5rem",
+                "margin": "1rem",
+              }
+            }
+            tabIndex="0"
+          >
+            <span>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
+                  />
+                </g>
+              </svg>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
+                  />
+                </g>
+              </svg>
+            </span>
+          </span>
+          <input
+            className="col-search"
+            onChange={[Function]}
+            placeholder="Search column test"
+            type="text"
+            value=""
+          />
+        </td>
+        <td
+          className="th"
+        >
+          Last
+          <span
+            onClick={[Function]}
+            onKeyDown={[Function]}
+            role="button"
+            style={
+              Object {
+                "color": "grey",
+                "cursor": "pointer",
+                "fontSize": "0.5rem",
+                "margin": "1rem",
+              }
+            }
+            tabIndex="0"
+          >
+            <span>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
+                  />
+                </g>
+              </svg>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
+                  />
+                </g>
+              </svg>
+            </span>
+          </span>
+          <input
+            className="col-search"
+            onChange={[Function]}
+            placeholder="Search column test"
+            type="text"
+            value=""
+          />
+        </td>
+        <td
+          className="th"
+        >
+          Handle
+          <input
+            className="col-search"
+            onChange={[Function]}
+            placeholder="Search column test"
+            type="text"
+            value=""
+          />
+        </td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr
+        className="trBody"
+        onClick={[Function]}
+      >
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          1
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          Mark
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          Otto
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          @mdo
+        </td>
+      </tr>
+      <tr
+        className="trBody"
+        onClick={[Function]}
+      >
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          2
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          Jacob
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          Thornton
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          @fat
+        </td>
+      </tr>
+      <tr
+        className="trBody"
+        onClick={[Function]}
+      >
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          3
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          Larry
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          the Bird
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          @twitter
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`TableProvider | handleOnClickCell 1`] = `
+<div>
+  <button
+    className="button"
+    onClick={[Function]}
+    value="Export CSV test"
+  >
+    Export CSV test
+  </button>
+  <input
+    className="table-search"
+    onChange={[Function]}
+    placeholder="Search table test"
+    type="text"
+    value=""
+  />
+  <table
+    className="table"
+  >
+    <thead>
+      <tr
+        className="trHead"
+      >
+        <td
+          className="th"
+        >
+          #
+          <span
+            onClick={[Function]}
+            onKeyDown={[Function]}
+            role="button"
+            style={
+              Object {
+                "color": "grey",
+                "cursor": "pointer",
+                "fontSize": "0.5rem",
+                "margin": "1rem",
+              }
+            }
+            tabIndex="0"
+          >
+            <span>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
+                  />
+                </g>
+              </svg>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
+                  />
+                </g>
+              </svg>
+            </span>
+          </span>
+          <input
+            className="col-search"
+            onChange={[Function]}
+            placeholder="Search column test"
+            type="text"
+            value=""
+          />
+        </td>
+        <td
+          className="th"
+        >
+          First
+          <span
+            onClick={[Function]}
+            onKeyDown={[Function]}
+            role="button"
+            style={
+              Object {
+                "color": "grey",
+                "cursor": "pointer",
+                "fontSize": "0.5rem",
+                "margin": "1rem",
+              }
+            }
+            tabIndex="0"
+          >
+            <span>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
+                  />
+                </g>
+              </svg>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
+                  />
+                </g>
+              </svg>
+            </span>
+          </span>
+          <input
+            className="col-search"
+            onChange={[Function]}
+            placeholder="Search column test"
+            type="text"
+            value=""
+          />
+        </td>
+        <td
+          className="th"
+        >
+          Last
+          <span
+            onClick={[Function]}
+            onKeyDown={[Function]}
+            role="button"
+            style={
+              Object {
+                "color": "grey",
+                "cursor": "pointer",
+                "fontSize": "0.5rem",
+                "margin": "1rem",
+              }
+            }
+            tabIndex="0"
+          >
+            <span>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
+                  />
+                </g>
+              </svg>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
+                  />
+                </g>
+              </svg>
+            </span>
+          </span>
+          <input
+            className="col-search"
+            onChange={[Function]}
+            placeholder="Search column test"
+            type="text"
+            value=""
+          />
+        </td>
+        <td
+          className="th"
+        >
+          Handle
+          <input
+            className="col-search"
+            onChange={[Function]}
+            placeholder="Search column test"
+            type="text"
+            value=""
+          />
+        </td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr
+        className="trBody"
+        onClick={[Function]}
+      >
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          1
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          Mark
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          Otto
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          @mdo
+        </td>
+      </tr>
+      <tr
+        className="trBody"
+        onClick={[Function]}
+      >
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          2
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          Jacob
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          Thornton
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          @fat
+        </td>
+      </tr>
+      <tr
+        className="trBody"
+        onClick={[Function]}
+      >
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          3
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          Larry
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          the Bird
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          @twitter
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`TableProvider | handleOnClickRow 1`] = `
+<div>
+  <button
+    className="button"
+    onClick={[Function]}
+    value="Export CSV test"
+  >
+    Export CSV test
+  </button>
+  <input
+    className="table-search"
+    onChange={[Function]}
+    placeholder="Search table test"
+    type="text"
+    value=""
+  />
+  <table
+    className="table"
+  >
+    <thead>
+      <tr
+        className="trHead"
+      >
+        <td
+          className="th"
+        >
+          #
+          <span
+            onClick={[Function]}
+            onKeyDown={[Function]}
+            role="button"
+            style={
+              Object {
+                "color": "grey",
+                "cursor": "pointer",
+                "fontSize": "0.5rem",
+                "margin": "1rem",
+              }
+            }
+            tabIndex="0"
+          >
+            <span>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
+                  />
+                </g>
+              </svg>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
+                  />
+                </g>
+              </svg>
+            </span>
+          </span>
+          <input
+            className="col-search"
+            onChange={[Function]}
+            placeholder="Search column test"
+            type="text"
+            value=""
+          />
+        </td>
+        <td
+          className="th"
+        >
+          First
+          <span
+            onClick={[Function]}
+            onKeyDown={[Function]}
+            role="button"
+            style={
+              Object {
+                "color": "grey",
+                "cursor": "pointer",
+                "fontSize": "0.5rem",
+                "margin": "1rem",
+              }
+            }
+            tabIndex="0"
+          >
+            <span>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
+                  />
+                </g>
+              </svg>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
+                  />
+                </g>
+              </svg>
+            </span>
+          </span>
+          <input
+            className="col-search"
+            onChange={[Function]}
+            placeholder="Search column test"
+            type="text"
+            value=""
+          />
+        </td>
+        <td
+          className="th"
+        >
+          Last
+          <span
+            onClick={[Function]}
+            onKeyDown={[Function]}
+            role="button"
+            style={
+              Object {
+                "color": "grey",
+                "cursor": "pointer",
+                "fontSize": "0.5rem",
+                "margin": "1rem",
+              }
+            }
+            tabIndex="0"
+          >
+            <span>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
+                  />
+                </g>
+              </svg>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
+                  />
+                </g>
+              </svg>
+            </span>
+          </span>
+          <input
+            className="col-search"
+            onChange={[Function]}
+            placeholder="Search column test"
+            type="text"
+            value=""
+          />
+        </td>
+        <td
+          className="th"
+        >
+          Handle
+          <input
+            className="col-search"
+            onChange={[Function]}
+            placeholder="Search column test"
+            type="text"
+            value=""
+          />
+        </td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr
+        className="trBody"
+        onClick={[Function]}
+      >
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          1
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          Mark
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          Otto
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          @mdo
+        </td>
+      </tr>
+      <tr
+        className="trBody"
+        onClick={[Function]}
+      >
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          2
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          Jacob
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          Thornton
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          @fat
+        </td>
+      </tr>
+      <tr
+        className="trBody"
+        onClick={[Function]}
+      >
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          3
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          Larry
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          the Bird
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          @twitter
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`TableProvider | no data found 1`] = `
+<div>
+  
+  <table>
+    <thead>
+      <tr>
+        <th>
+          #
+          <span
+            onClick={[Function]}
+            onKeyDown={[Function]}
+            role="button"
+            style={
+              Object {
+                "color": "grey",
+                "cursor": "pointer",
+                "fontSize": "0.5rem",
+                "margin": "1rem",
+              }
+            }
+            tabIndex="0"
+          >
+            <span>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
+                  />
+                </g>
+              </svg>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
+                  />
+                </g>
+              </svg>
+            </span>
+          </span>
+          <input
+            onChange={[Function]}
+            placeholder="Search column"
+            type="text"
+            value=""
+          />
+        </th>
+        <th>
+          First
+          <span
+            onClick={[Function]}
+            onKeyDown={[Function]}
+            role="button"
+            style={
+              Object {
+                "color": "grey",
+                "cursor": "pointer",
+                "fontSize": "0.5rem",
+                "margin": "1rem",
+              }
+            }
+            tabIndex="0"
+          >
+            <span>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
+                  />
+                </g>
+              </svg>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
+                  />
+                </g>
+              </svg>
+            </span>
+          </span>
+          <input
+            onChange={[Function]}
+            placeholder="Search column"
+            type="text"
+            value=""
+          />
+        </th>
+        <th>
+          Last
+          <span
+            onClick={[Function]}
+            onKeyDown={[Function]}
+            role="button"
+            style={
+              Object {
+                "color": "grey",
+                "cursor": "pointer",
+                "fontSize": "0.5rem",
+                "margin": "1rem",
+              }
+            }
+            tabIndex="0"
+          >
+            <span>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
+                  />
+                </g>
+              </svg>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
+                  />
+                </g>
+              </svg>
+            </span>
+          </span>
+          <input
+            onChange={[Function]}
+            placeholder="Search column"
+            type="text"
+            value=""
+          />
+        </th>
+        <th>
+          Handle
+          <input
+            onChange={[Function]}
+            placeholder="Search column"
+            type="text"
+            value=""
+          />
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr
+        onClick={[Function]}
+      >
+        <td
+          onClick={[Function]}
+        >
+          1
+        </td>
+        <td
+          onClick={[Function]}
+        >
+          Mark
+        </td>
+        <td
+          onClick={[Function]}
+        >
+          Otto
+        </td>
+        <td
+          onClick={[Function]}
+        >
+          @mdo
+        </td>
+      </tr>
+      <tr
+        onClick={[Function]}
+      >
+        <td
+          onClick={[Function]}
+        >
+          2
+        </td>
+        <td
+          onClick={[Function]}
+        >
+          Jacob
+        </td>
+        <td
+          onClick={[Function]}
+        >
+          Thornton
+        </td>
+        <td
+          onClick={[Function]}
+        >
+          @fat
+        </td>
+      </tr>
+      <tr
+        onClick={[Function]}
+      >
+        <td
+          onClick={[Function]}
+        >
+          3
+        </td>
+        <td
+          onClick={[Function]}
+        >
+          Larry
+        </td>
+        <td
+          onClick={[Function]}
+        >
+          the Bird
+        </td>
+        <td
+          onClick={[Function]}
+        >
+          No data found
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`TableProvider | no header 1`] = `
+<div>
+  
+  <table>
+    <thead>
+      <tr>
+        <th>
+          number
+        </th>
+        <th>
+          first
+        </th>
+        <th>
+          last
+        </th>
+        <th>
+          handle
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr
+        onClick={[Function]}
+      >
+        <td
+          onClick={[Function]}
+        >
+          1
+        </td>
+        <td
+          onClick={[Function]}
+        >
+          Mark
+        </td>
+        <td
+          onClick={[Function]}
+        >
+          Otto
+        </td>
+        <td
+          onClick={[Function]}
+        >
+          @mdo
+        </td>
+      </tr>
+      <tr
+        onClick={[Function]}
+      >
+        <td
+          onClick={[Function]}
+        >
+          2
+        </td>
+        <td
+          onClick={[Function]}
+        >
+          Jacob
+        </td>
+        <td
+          onClick={[Function]}
+        >
+          Thornton
+        </td>
+        <td
+          onClick={[Function]}
+        >
+          @fat
+        </td>
+      </tr>
+      <tr
+        onClick={[Function]}
+      >
+        <td
+          onClick={[Function]}
+        >
+          3
+        </td>
+        <td
+          onClick={[Function]}
+        >
+          Larry
+        </td>
+        <td
+          onClick={[Function]}
+        >
+          the Bird
+        </td>
+        <td
+          onClick={[Function]}
+        >
+          @twitter
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`TableProvider | searchOnColumn 1`] = `
+<div>
+  <button
+    className="button"
+    onClick={[Function]}
+    value="Export CSV test"
+  >
+    Export CSV test
+  </button>
+  <input
+    className="table-search"
+    onChange={[Function]}
+    placeholder="Search table test"
+    type="text"
+    value=""
+  />
+  <table
+    className="table"
+  >
+    <thead>
+      <tr
+        className="trHead"
+      >
+        <td
+          className="th"
+        >
+          #
+          <span
+            onClick={[Function]}
+            onKeyDown={[Function]}
+            role="button"
+            style={
+              Object {
+                "color": "grey",
+                "cursor": "pointer",
+                "fontSize": "0.5rem",
+                "margin": "1rem",
+              }
+            }
+            tabIndex="0"
+          >
+            <span>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
+                  />
+                </g>
+              </svg>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
+                  />
+                </g>
+              </svg>
+            </span>
+          </span>
+          <input
+            className="col-search"
+            onChange={[Function]}
+            placeholder="Search column test"
+            type="text"
+            value=""
+          />
+        </td>
+        <td
+          className="th"
+        >
+          First
+          <span
+            onClick={[Function]}
+            onKeyDown={[Function]}
+            role="button"
+            style={
+              Object {
+                "color": "grey",
+                "cursor": "pointer",
+                "fontSize": "0.5rem",
+                "margin": "1rem",
+              }
+            }
+            tabIndex="0"
+          >
+            <span>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
+                  />
+                </g>
+              </svg>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
+                  />
+                </g>
+              </svg>
+            </span>
+          </span>
+          <input
+            className="col-search"
+            onChange={[Function]}
+            placeholder="Search column test"
+            type="text"
+            value="mark"
+          />
+        </td>
+        <td
+          className="th"
+        >
+          Last
+          <span
+            onClick={[Function]}
+            onKeyDown={[Function]}
+            role="button"
+            style={
+              Object {
+                "color": "grey",
+                "cursor": "pointer",
+                "fontSize": "0.5rem",
+                "margin": "1rem",
+              }
+            }
+            tabIndex="0"
+          >
+            <span>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
+                  />
+                </g>
+              </svg>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
+                  />
+                </g>
+              </svg>
+            </span>
+          </span>
+          <input
+            className="col-search"
+            onChange={[Function]}
+            placeholder="Search column test"
+            type="text"
+            value=""
+          />
+        </td>
+        <td
+          className="th"
+        >
+          Handle
+          <input
+            className="col-search"
+            onChange={[Function]}
+            placeholder="Search column test"
+            type="text"
+            value=""
+          />
+        </td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr
+        className="trBody"
+        onClick={[Function]}
+      >
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          1
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          Mark
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          Otto
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          @mdo
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`TableProvider | searchOnTable 1`] = `
+<div>
+  <button
+    className="button"
+    onClick={[Function]}
+    value="Export CSV test"
+  >
+    Export CSV test
+  </button>
+  <input
+    className="table-search"
+    onChange={[Function]}
+    placeholder="Search table test"
+    type="text"
+    value="mark"
+  />
+  <table
+    className="table"
+  >
+    <thead>
+      <tr
+        className="trHead"
+      >
+        <td
+          className="th"
+        >
+          #
+          <span
+            onClick={[Function]}
+            onKeyDown={[Function]}
+            role="button"
+            style={
+              Object {
+                "color": "grey",
+                "cursor": "pointer",
+                "fontSize": "0.5rem",
+                "margin": "1rem",
+              }
+            }
+            tabIndex="0"
+          >
+            <span>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
+                  />
+                </g>
+              </svg>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
+                  />
+                </g>
+              </svg>
+            </span>
+          </span>
+          <input
+            className="col-search"
+            onChange={[Function]}
+            placeholder="Search column test"
+            type="text"
+            value=""
+          />
+        </td>
+        <td
+          className="th"
+        >
+          First
+          <span
+            onClick={[Function]}
+            onKeyDown={[Function]}
+            role="button"
+            style={
+              Object {
+                "color": "grey",
+                "cursor": "pointer",
+                "fontSize": "0.5rem",
+                "margin": "1rem",
+              }
+            }
+            tabIndex="0"
+          >
+            <span>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
+                  />
+                </g>
+              </svg>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
+                  />
+                </g>
+              </svg>
+            </span>
+          </span>
+          <input
+            className="col-search"
+            onChange={[Function]}
+            placeholder="Search column test"
+            type="text"
+            value=""
+          />
+        </td>
+        <td
+          className="th"
+        >
+          Last
+          <span
+            onClick={[Function]}
+            onKeyDown={[Function]}
+            role="button"
+            style={
+              Object {
+                "color": "grey",
+                "cursor": "pointer",
+                "fontSize": "0.5rem",
+                "margin": "1rem",
+              }
+            }
+            tabIndex="0"
+          >
+            <span>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
+                  />
+                </g>
+              </svg>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
+                  />
+                </g>
+              </svg>
+            </span>
+          </span>
+          <input
+            className="col-search"
+            onChange={[Function]}
+            placeholder="Search column test"
+            type="text"
+            value=""
+          />
+        </td>
+        <td
+          className="th"
+        >
+          Handle
+          <input
+            className="col-search"
+            onChange={[Function]}
+            placeholder="Search column test"
+            type="text"
+            value=""
+          />
+        </td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr
+        className="trBody"
+        onClick={[Function]}
+      >
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          1
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          Mark
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          Otto
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          @mdo
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`TableProvider | sortByKey 1`] = `
+<div>
+  <button
+    className="button"
+    onClick={[Function]}
+    value="Export CSV test"
+  >
+    Export CSV test
+  </button>
+  <input
+    className="table-search"
+    onChange={[Function]}
+    placeholder="Search table test"
+    type="text"
+    value=""
+  />
+  <table
+    className="table"
+  >
+    <thead>
+      <tr
+        className="trHead"
+      >
+        <td
+          className="th"
+        >
+          #
+          <span
+            onClick={[Function]}
+            onKeyDown={[Function]}
+            role="button"
+            style={
+              Object {
+                "color": "black",
+                "cursor": "pointer",
+                "fontSize": "0.7rem",
+                "margin": "1rem",
+              }
+            }
+            tabIndex="0"
+          >
+            <svg
+              fill="currentColor"
+              height={20}
+              preserveAspectRatio="xMidYMid meet"
+              style={
+                Object {
+                  "color": undefined,
+                  "verticalAlign": "middle",
+                }
+              }
+              viewBox="0 0 40 40"
+              width={20}
+            >
+              <g>
+                <path
+                  d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
+                />
+              </g>
+            </svg>
+          </span>
+          <input
+            className="col-search"
+            onChange={[Function]}
+            placeholder="Search column test"
+            type="text"
+            value=""
+          />
+        </td>
+        <td
+          className="th"
+        >
+          First
+          <span
+            onClick={[Function]}
+            onKeyDown={[Function]}
+            role="button"
+            style={
+              Object {
+                "color": "grey",
+                "cursor": "pointer",
+                "fontSize": "0.5rem",
+                "margin": "1rem",
+              }
+            }
+            tabIndex="0"
+          >
+            <span>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
+                  />
+                </g>
+              </svg>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
+                  />
+                </g>
+              </svg>
+            </span>
+          </span>
+          <input
+            className="col-search"
+            onChange={[Function]}
+            placeholder="Search column test"
+            type="text"
+            value=""
+          />
+        </td>
+        <td
+          className="th"
+        >
+          Last
+          <span
+            onClick={[Function]}
+            onKeyDown={[Function]}
+            role="button"
+            style={
+              Object {
+                "color": "grey",
+                "cursor": "pointer",
+                "fontSize": "0.5rem",
+                "margin": "1rem",
+              }
+            }
+            tabIndex="0"
+          >
+            <span>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
+                  />
+                </g>
+              </svg>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
+                  />
+                </g>
+              </svg>
+            </span>
+          </span>
+          <input
+            className="col-search"
+            onChange={[Function]}
+            placeholder="Search column test"
+            type="text"
+            value=""
+          />
+        </td>
+        <td
+          className="th"
+        >
+          Handle
+          <input
+            className="col-search"
+            onChange={[Function]}
+            placeholder="Search column test"
+            type="text"
+            value=""
+          />
+        </td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr
+        className="trBody"
+        onClick={[Function]}
+      >
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          3
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          Larry
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          the Bird
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          @twitter
+        </td>
+      </tr>
+      <tr
+        className="trBody"
+        onClick={[Function]}
+      >
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          2
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          Jacob
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          Thornton
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          @fat
+        </td>
+      </tr>
+      <tr
+        className="trBody"
+        onClick={[Function]}
+      >
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          1
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          Mark
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          Otto
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          @mdo
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`TableProvider | sortByKey 2`] = `
+<div>
+  <button
+    className="button"
+    onClick={[Function]}
+    value="Export CSV test"
+  >
+    Export CSV test
+  </button>
+  <input
+    className="table-search"
+    onChange={[Function]}
+    placeholder="Search table test"
+    type="text"
+    value=""
+  />
+  <table
+    className="table"
+  >
+    <thead>
+      <tr
+        className="trHead"
+      >
+        <td
+          className="th"
+        >
+          #
+          <span
+            onClick={[Function]}
+            onKeyDown={[Function]}
+            role="button"
+            style={
+              Object {
+                "color": "black",
+                "cursor": "pointer",
+                "fontSize": "0.7rem",
+                "margin": "1rem",
+              }
+            }
+            tabIndex="0"
+          >
+            <svg
+              fill="currentColor"
+              height={20}
+              preserveAspectRatio="xMidYMid meet"
+              style={
+                Object {
+                  "color": undefined,
+                  "verticalAlign": "middle",
+                }
+              }
+              viewBox="0 0 40 40"
+              width={20}
+            >
+              <g>
+                <path
+                  d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
+                />
+              </g>
+            </svg>
+          </span>
+          <input
+            className="col-search"
+            onChange={[Function]}
+            placeholder="Search column test"
+            type="text"
+            value=""
+          />
+        </td>
+        <td
+          className="th"
+        >
+          First
+          <span
+            onClick={[Function]}
+            onKeyDown={[Function]}
+            role="button"
+            style={
+              Object {
+                "color": "grey",
+                "cursor": "pointer",
+                "fontSize": "0.5rem",
+                "margin": "1rem",
+              }
+            }
+            tabIndex="0"
+          >
+            <span>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
+                  />
+                </g>
+              </svg>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
+                  />
+                </g>
+              </svg>
+            </span>
+          </span>
+          <input
+            className="col-search"
+            onChange={[Function]}
+            placeholder="Search column test"
+            type="text"
+            value=""
+          />
+        </td>
+        <td
+          className="th"
+        >
+          Last
+          <span
+            onClick={[Function]}
+            onKeyDown={[Function]}
+            role="button"
+            style={
+              Object {
+                "color": "grey",
+                "cursor": "pointer",
+                "fontSize": "0.5rem",
+                "margin": "1rem",
+              }
+            }
+            tabIndex="0"
+          >
+            <span>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
+                  />
+                </g>
+              </svg>
+              <svg
+                fill="currentColor"
+                height={15}
+                preserveAspectRatio="xMidYMid meet"
+                style={
+                  Object {
+                    "color": undefined,
+                    "verticalAlign": "middle",
+                  }
+                }
+                viewBox="0 0 40 40"
+                width={15}
+              >
+                <g>
+                  <path
+                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
+                  />
+                </g>
+              </svg>
+            </span>
+          </span>
+          <input
+            className="col-search"
+            onChange={[Function]}
+            placeholder="Search column test"
+            type="text"
+            value=""
+          />
+        </td>
+        <td
+          className="th"
+        >
+          Handle
+          <input
+            className="col-search"
+            onChange={[Function]}
+            placeholder="Search column test"
+            type="text"
+            value=""
+          />
+        </td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr
+        className="trBody"
+        onClick={[Function]}
+      >
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          1
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          Mark
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          Otto
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          @mdo
+        </td>
+      </tr>
+      <tr
+        className="trBody"
+        onClick={[Function]}
+      >
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          2
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          Jacob
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          Thornton
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          @fat
+        </td>
+      </tr>
+      <tr
+        className="trBody"
+        onClick={[Function]}
+      >
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          3
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          Larry
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          the Bird
+        </td>
+        <td
+          className="td"
+          onClick={[Function]}
+        >
+          @twitter
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
