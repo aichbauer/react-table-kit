@@ -463,8 +463,8 @@ array-reduce@~0.0.0:
   resolved "https://registry.yarnpkg.com/array-reduce/-/array-reduce-0.0.0.tgz#173899d3ffd1c7d9383e4479525dbe278cab5f2b"
 
 array-table-search@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/array-table-search/-/array-table-search-1.0.0.tgz#f2e8bb9f1edb17ebfcfdba5722eb6533ce27fc8c"
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/array-table-search/-/array-table-search-1.0.1.tgz#7fccff10d37a3afc0fc21b8ecc7a8d3625545ee6"
 
 array-table-sort@^1.0.0:
   version "1.0.0"
