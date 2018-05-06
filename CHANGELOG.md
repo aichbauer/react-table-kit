@@ -1,3 +1,7 @@
+1.0.2 - May, 06 2018
+
+* f197338 Chore: upgrade array-table-search (#2) (Lukas Aichbauer)
+
 1.0.1 - May, 06 2018
 
 * f205027 Fix: main entry point for lib (#1) (Lukas Aichbauer)
