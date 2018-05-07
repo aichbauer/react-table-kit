@@ -75,9 +75,9 @@
     "styled-table-component": "^1.2.0"
   },
   "dependencies": {
-    "array-table-search": "^1.0.0",
+    "array-table-search": "^1.0.1",
     "array-table-sort": "^1.0.0",
-    "convert-array-to-csv": "^1.0.0",
+    "convert-array-to-csv": "^1.0.1",
     "js-file-download": "^0.4.1",
     "prop-types": "^15.6.1",
     "react": "^16.2.0",
