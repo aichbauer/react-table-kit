@@ -1,3 +1,7 @@
+1.0.3 - May, 07 2018
+
+* ae57bb1 Chore: upgrade dependencies (#3) (Lukas Aichbauer)
+
 1.0.2 - May, 06 2018
 
 * f197338 Chore: upgrade array-table-search (#2) (Lukas Aichbauer)
