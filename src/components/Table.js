@@ -31,6 +31,7 @@ export class Table extends React.Component {
       th: this.props.th,
       trHead: this.props.trHead,
       trBody: this.props.trBody,
+      tableSearchValue: '',
       search: {},
       sort: {},
     };
@@ -44,7 +45,7 @@ export class Table extends React.Component {
   }
 
   componentWillMount() {
-    const { columns, tableSearch } = this.state;
+    const { columns } = this.state;
     let sort = {};
     let search = {};
 
@@ -68,16 +69,10 @@ export class Table extends React.Component {
       }
     });
 
-    if (tableSearch) {
-      search = {
-        ...search,
-        tableValue: '',
-      };
-    }
-
     this.setState({
       sort,
       search,
+      tableSearchValue: '',
     });
   }
 
@@ -135,7 +130,9 @@ export class Table extends React.Component {
 
   searchOnTable(ev) {
     const { value } = ev.target;
-    const { tableSearch } = this.state;
+    const {
+      tableSearch,
+    } = this.state;
     const dataToSearch = [...this.props.data];
     const sortOptions = {
       type: tableSearch,
@@ -146,10 +143,7 @@ export class Table extends React.Component {
 
     this.setState({
       data: searchedData,
-      search: {
-        ...this.state.search,
-        tableValue: value,
-      },
+      tableSearchValue: value,
     });
   }
 
@@ -176,6 +170,7 @@ export class Table extends React.Component {
       trBody,
       th,
       td,
+      tableSearchValue,
       sort,
       search,
     } = this.state;
@@ -189,18 +184,22 @@ export class Table extends React.Component {
     return (
       <div>
         {
-          exportCSV &&
+          exportCSV
+          && (
           <ExportCSVButton
             buttonExportCSV={buttonExportCSV}
             onClick={(ev) => this.exportToCSV(ev)}
           />
+          )
         }
-        {tableSearch &&
+        {tableSearch
+          && (
           <SearchTableInput
             inputTableSearch={inputTableSearch}
             onChange={(ev) => this.searchOnTable(ev)}
-            value={search.tableValue}
+            value={tableSearchValue}
           />
+          )
         }
         <TableComponent
           {...table.props}
@@ -215,19 +214,23 @@ export class Table extends React.Component {
                   key={`${column.accessor}-header-cell`}
                 >
                   {column.header || column.accessor}
-                  {column.sort &&
+                  {column.sort
+                    && (
                     <SortColumnButton
                       sort={sort}
                       column={column}
                       onClick={() => this.sortByKey(column.accessor)}
                       onKeyDown={() => this.sortByKey(column.accessor)}
-                    />}
-                  {column.search &&
+                    />
+                    )}
+                  {column.search
+                    && (
                     <SearchColumnInput
                       inputColumnSearch={inputColumnSearch}
                       onChange={(ev) => this.searchOnColumn(ev, column)}
                       value={search[column.accessor].value}
                     />
+                    )
                   }
                 </TableHeaderCellComponent>
               ))}
@@ -235,11 +238,12 @@ export class Table extends React.Component {
           </thead>
           <tbody>
             {
-              data.length > 0 && data.map((item) => (
+              data.length > 0 && data.map((item, idx) => (
                 <TableBodyRowComponent
                   onClick={() => this.handleOnClickRow(item)}
                   {...trBody.props}
-                  key={`${Object.values(item)}-body-row`}
+                  key={`${Object.keys(item).map((key) => item[key])}-body-row`}
+                  className={`${Object.keys(item).map((key) => item[key]).toString()}-body-row`}
                 >
                   {
                     columns.length > 0 && columns.map((column) => (
