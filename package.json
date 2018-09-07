@@ -1,6 +1,6 @@
 {
   "name": "react-table-kit",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A react table component with custom components support and functionality to sort, search, export data, ...",
   "main": "./lib/index.js",
   "license": "MIT",

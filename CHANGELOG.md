@@ -1,3 +1,7 @@
+1.0.4 - September, 07 2018
+
+* 3c71f29 Fix: babel runtime (#4) (Lukas Aichbauer)
+
 1.0.3 - May, 07 2018
 
 * ae57bb1 Chore: upgrade dependencies (#3) (Lukas Aichbauer)
