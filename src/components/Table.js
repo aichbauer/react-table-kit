@@ -238,7 +238,7 @@ export class Table extends React.Component {
           </thead>
           <tbody>
             {
-              data.length > 0 && data.map((item, idx) => (
+              data.length > 0 && data.map((item) => (
                 <TableBodyRowComponent
                   onClick={() => this.handleOnClickRow(item)}
                   {...trBody.props}

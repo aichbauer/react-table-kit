@@ -10,31 +10,37 @@ import { data, noDataFound } from '../fixtures/data';
 
 configure({ adapter: new Adapter() });
 
-const MyComponent = (<Table
-  buttonExportCSV={<button className="button" value="Export CSV test" />}
-  columns={sortSearchColumns}
-  data={data}
-  exportCSV
-  inputColumnSearch={<input className="col-search" type="text" placeholder="Search column test" />}
-  inputTableSearch={<input className="table-search" type="text" placeholder="Search table test" />}
-  table={<table className="table" />}
-  tableSearch="exact"
-  td={<td className="td" />}
-  th={<td className="th" />}
-  trBody={<tr className="trBody" />}
-  trHead={<tr className="trHead" />}
-/>);
+const MyComponent = (
+  <Table
+    buttonExportCSV={<button className="button" value="Export CSV test" />}
+    columns={sortSearchColumns}
+    data={data}
+    exportCSV
+    inputColumnSearch={<input className="col-search" type="text" placeholder="Search column test" />}
+    inputTableSearch={<input className="table-search" type="text" placeholder="Search table test" />}
+    table={<table className="table" />}
+    tableSearch="exact"
+    td={<td className="td" />}
+    th={<td className="th" />}
+    trBody={<tr className="trBody" />}
+    trHead={<tr className="trHead" />}
+  />
+);
 
-const MyComponentNoHeader = (<Table
-  columns={noHeaderColumns}
-  data={data}
-/>);
+const MyComponentNoHeader = (
+  <Table
+    columns={noHeaderColumns}
+    data={data}
+  />
+);
 
-const MyComponentNoDataFound = (<Table
-  columns={sortSearchColumns}
-  data={noDataFound}
-  noDataFound="NO DATA FOUND"
-/>);
+const MyComponentNoDataFound = (
+  <Table
+    columns={sortSearchColumns}
+    data={noDataFound}
+    noDataFound="NO DATA FOUND"
+  />
+);
 
 let wrapper;
 

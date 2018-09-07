@@ -43,42 +43,50 @@ exports[`TableProvider | exportToCSV 1`] = `
           >
             <span>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"
+                />
               </svg>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
+                />
               </svg>
             </span>
           </span>
@@ -110,42 +118,50 @@ exports[`TableProvider | exportToCSV 1`] = `
           >
             <span>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"
+                />
               </svg>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
+                />
               </svg>
             </span>
           </span>
@@ -177,42 +193,50 @@ exports[`TableProvider | exportToCSV 1`] = `
           >
             <span>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"
+                />
               </svg>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
+                />
               </svg>
             </span>
           </span>
@@ -374,42 +398,50 @@ exports[`TableProvider | handleOnClickCell 1`] = `
           >
             <span>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"
+                />
               </svg>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
+                />
               </svg>
             </span>
           </span>
@@ -441,42 +473,50 @@ exports[`TableProvider | handleOnClickCell 1`] = `
           >
             <span>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"
+                />
               </svg>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
+                />
               </svg>
             </span>
           </span>
@@ -508,42 +548,50 @@ exports[`TableProvider | handleOnClickCell 1`] = `
           >
             <span>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"
+                />
               </svg>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
+                />
               </svg>
             </span>
           </span>
@@ -705,42 +753,50 @@ exports[`TableProvider | handleOnClickRow 1`] = `
           >
             <span>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"
+                />
               </svg>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
+                />
               </svg>
             </span>
           </span>
@@ -772,42 +828,50 @@ exports[`TableProvider | handleOnClickRow 1`] = `
           >
             <span>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"
+                />
               </svg>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
+                />
               </svg>
             </span>
           </span>
@@ -839,42 +903,50 @@ exports[`TableProvider | handleOnClickRow 1`] = `
           >
             <span>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"
+                />
               </svg>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
+                />
               </svg>
             </span>
           </span>
@@ -1017,42 +1089,50 @@ exports[`TableProvider | no data found 1`] = `
           >
             <span>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"
+                />
               </svg>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
+                />
               </svg>
             </span>
           </span>
@@ -1081,42 +1161,50 @@ exports[`TableProvider | no data found 1`] = `
           >
             <span>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"
+                />
               </svg>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
+                />
               </svg>
             </span>
           </span>
@@ -1145,42 +1233,50 @@ exports[`TableProvider | no data found 1`] = `
           >
             <span>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"
+                />
               </svg>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
+                />
               </svg>
             </span>
           </span>
@@ -1421,42 +1517,50 @@ exports[`TableProvider | searchOnColumn 1`] = `
           >
             <span>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"
+                />
               </svg>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
+                />
               </svg>
             </span>
           </span>
@@ -1488,42 +1592,50 @@ exports[`TableProvider | searchOnColumn 1`] = `
           >
             <span>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"
+                />
               </svg>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
+                />
               </svg>
             </span>
           </span>
@@ -1555,42 +1667,50 @@ exports[`TableProvider | searchOnColumn 1`] = `
           >
             <span>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"
+                />
               </svg>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
+                />
               </svg>
             </span>
           </span>
@@ -1694,42 +1814,50 @@ exports[`TableProvider | searchOnTable 1`] = `
           >
             <span>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"
+                />
               </svg>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
+                />
               </svg>
             </span>
           </span>
@@ -1761,42 +1889,50 @@ exports[`TableProvider | searchOnTable 1`] = `
           >
             <span>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"
+                />
               </svg>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
+                />
               </svg>
             </span>
           </span>
@@ -1828,42 +1964,50 @@ exports[`TableProvider | searchOnTable 1`] = `
           >
             <span>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"
+                />
               </svg>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
+                />
               </svg>
             </span>
           </span>
@@ -1966,23 +2110,27 @@ exports[`TableProvider | sortByKey 1`] = `
             tabIndex="0"
           >
             <svg
+              attr={
+                Object {
+                  "viewBox": "0 0 320 512",
+                }
+              }
               fill="currentColor"
               height={20}
-              preserveAspectRatio="xMidYMid meet"
+              size={20}
+              stroke="currentColor"
+              strokeWidth="0"
               style={
                 Object {
                   "color": undefined,
-                  "verticalAlign": "middle",
                 }
               }
-              viewBox="0 0 40 40"
+              viewBox="0 0 320 512"
               width={20}
             >
-              <g>
-                <path
-                  d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
-                />
-              </g>
+              <path
+                d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
+              />
             </svg>
           </span>
           <input
@@ -2013,42 +2161,50 @@ exports[`TableProvider | sortByKey 1`] = `
           >
             <span>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"
+                />
               </svg>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
+                />
               </svg>
             </span>
           </span>
@@ -2080,42 +2236,50 @@ exports[`TableProvider | sortByKey 1`] = `
           >
             <span>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"
+                />
               </svg>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
+                />
               </svg>
             </span>
           </span>
@@ -2276,23 +2440,27 @@ exports[`TableProvider | sortByKey 2`] = `
             tabIndex="0"
           >
             <svg
+              attr={
+                Object {
+                  "viewBox": "0 0 320 512",
+                }
+              }
               fill="currentColor"
               height={20}
-              preserveAspectRatio="xMidYMid meet"
+              size={20}
+              stroke="currentColor"
+              strokeWidth="0"
               style={
                 Object {
                   "color": undefined,
-                  "verticalAlign": "middle",
                 }
               }
-              viewBox="0 0 40 40"
+              viewBox="0 0 320 512"
               width={20}
             >
-              <g>
-                <path
-                  d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
-                />
-              </g>
+              <path
+                d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"
+              />
             </svg>
           </span>
           <input
@@ -2323,42 +2491,50 @@ exports[`TableProvider | sortByKey 2`] = `
           >
             <span>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"
+                />
               </svg>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
+                />
               </svg>
             </span>
           </span>
@@ -2390,42 +2566,50 @@ exports[`TableProvider | sortByKey 2`] = `
           >
             <span>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 27.1q0 0.6-0.5 1t-1 0.5h-20q-0.6 0-1-0.5t-0.4-1 0.4-1l10-10q0.4-0.4 1-0.4t1 0.4l10 10q0.5 0.5 0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"
+                />
               </svg>
               <svg
+                attr={
+                  Object {
+                    "viewBox": "0 0 320 512",
+                  }
+                }
                 fill="currentColor"
                 height={15}
-                preserveAspectRatio="xMidYMid meet"
+                size={15}
+                stroke="currentColor"
+                strokeWidth="0"
                 style={
                   Object {
                     "color": undefined,
-                    "verticalAlign": "middle",
                   }
                 }
-                viewBox="0 0 40 40"
+                viewBox="0 0 320 512"
                 width={15}
               >
-                <g>
-                  <path
-                    d="m31.4 15.7q0 0.6-0.5 1l-10 10q-0.4 0.4-1 0.4t-1-0.4l-10-10q-0.4-0.4-0.4-1t0.4-1 1-0.4h20q0.6 0 1 0.4t0.5 1z"
-                  />
-                </g>
+                <path
+                  d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
+                />
               </svg>
             </span>
           </span>
