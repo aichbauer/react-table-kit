@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import * as Icon from 'react-icons/lib/fa';
+import { FaCaretDown, FaCaretUp } from 'react-icons/fa';
 
 export const SortColumnButton = (props) => {
   const {
@@ -15,11 +15,16 @@ export const SortColumnButton = (props) => {
   let arrow = '';
 
   if (activeAsc) {
-    arrow = <Icon.FaCaretUp size={20} />;
+    arrow = <FaCaretUp size={20} />;
   } else if (activeDesc) {
-    arrow = <Icon.FaCaretDown size={20} />;
+    arrow = <FaCaretDown size={20} />;
   } else {
-    arrow = <span><Icon.FaCaretUp size={15} /><Icon.FaCaretDown size={15} /></span>;
+    arrow = (
+      <span>
+        <FaCaretUp size={15} />
+        <FaCaretDown size={15} />
+      </span>
+    );
   }
 
   return (
