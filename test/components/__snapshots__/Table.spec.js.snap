@@ -264,7 +264,7 @@ exports[`TableProvider | exportToCSV 1`] = `
     </thead>
     <tbody>
       <tr
-        className="trBody"
+        className="1,Mark,Otto,@mdo-body-row"
         onClick={[Function]}
       >
         <td
@@ -293,7 +293,7 @@ exports[`TableProvider | exportToCSV 1`] = `
         </td>
       </tr>
       <tr
-        className="trBody"
+        className="2,Jacob,Thornton,@fat-body-row"
         onClick={[Function]}
       >
         <td
@@ -322,7 +322,7 @@ exports[`TableProvider | exportToCSV 1`] = `
         </td>
       </tr>
       <tr
-        className="trBody"
+        className="3,Larry,the Bird,@twitter-body-row"
         onClick={[Function]}
       >
         <td
@@ -619,7 +619,7 @@ exports[`TableProvider | handleOnClickCell 1`] = `
     </thead>
     <tbody>
       <tr
-        className="trBody"
+        className="1,Mark,Otto,@mdo-body-row"
         onClick={[Function]}
       >
         <td
@@ -648,7 +648,7 @@ exports[`TableProvider | handleOnClickCell 1`] = `
         </td>
       </tr>
       <tr
-        className="trBody"
+        className="2,Jacob,Thornton,@fat-body-row"
         onClick={[Function]}
       >
         <td
@@ -677,7 +677,7 @@ exports[`TableProvider | handleOnClickCell 1`] = `
         </td>
       </tr>
       <tr
-        className="trBody"
+        className="3,Larry,the Bird,@twitter-body-row"
         onClick={[Function]}
       >
         <td
@@ -974,7 +974,7 @@ exports[`TableProvider | handleOnClickRow 1`] = `
     </thead>
     <tbody>
       <tr
-        className="trBody"
+        className="1,Mark,Otto,@mdo-body-row"
         onClick={[Function]}
       >
         <td
@@ -1003,7 +1003,7 @@ exports[`TableProvider | handleOnClickRow 1`] = `
         </td>
       </tr>
       <tr
-        className="trBody"
+        className="2,Jacob,Thornton,@fat-body-row"
         onClick={[Function]}
       >
         <td
@@ -1032,7 +1032,7 @@ exports[`TableProvider | handleOnClickRow 1`] = `
         </td>
       </tr>
       <tr
-        className="trBody"
+        className="3,Larry,the Bird,@twitter-body-row"
         onClick={[Function]}
       >
         <td
@@ -1300,6 +1300,7 @@ exports[`TableProvider | no data found 1`] = `
     </thead>
     <tbody>
       <tr
+        className="1,Mark,Otto,@mdo-body-row"
         onClick={[Function]}
       >
         <td
@@ -1324,6 +1325,7 @@ exports[`TableProvider | no data found 1`] = `
         </td>
       </tr>
       <tr
+        className="2,Jacob,Thornton,@fat-body-row"
         onClick={[Function]}
       >
         <td
@@ -1348,6 +1350,7 @@ exports[`TableProvider | no data found 1`] = `
         </td>
       </tr>
       <tr
+        className="3,Larry,the Bird-body-row"
         onClick={[Function]}
       >
         <td
@@ -1398,6 +1401,7 @@ exports[`TableProvider | no header 1`] = `
     </thead>
     <tbody>
       <tr
+        className="1,Mark,Otto,@mdo-body-row"
         onClick={[Function]}
       >
         <td
@@ -1422,6 +1426,7 @@ exports[`TableProvider | no header 1`] = `
         </td>
       </tr>
       <tr
+        className="2,Jacob,Thornton,@fat-body-row"
         onClick={[Function]}
       >
         <td
@@ -1446,6 +1451,7 @@ exports[`TableProvider | no header 1`] = `
         </td>
       </tr>
       <tr
+        className="3,Larry,the Bird,@twitter-body-row"
         onClick={[Function]}
       >
         <td
@@ -1738,7 +1744,7 @@ exports[`TableProvider | searchOnColumn 1`] = `
     </thead>
     <tbody>
       <tr
-        className="trBody"
+        className="1,Mark,Otto,@mdo-body-row"
         onClick={[Function]}
       >
         <td
@@ -2035,7 +2041,7 @@ exports[`TableProvider | searchOnTable 1`] = `
     </thead>
     <tbody>
       <tr
-        className="trBody"
+        className="1,Mark,Otto,@mdo-body-row"
         onClick={[Function]}
       >
         <td
@@ -2307,7 +2313,7 @@ exports[`TableProvider | sortByKey 1`] = `
     </thead>
     <tbody>
       <tr
-        className="trBody"
+        className="3,Larry,the Bird,@twitter-body-row"
         onClick={[Function]}
       >
         <td
@@ -2336,7 +2342,7 @@ exports[`TableProvider | sortByKey 1`] = `
         </td>
       </tr>
       <tr
-        className="trBody"
+        className="2,Jacob,Thornton,@fat-body-row"
         onClick={[Function]}
       >
         <td
@@ -2365,7 +2371,7 @@ exports[`TableProvider | sortByKey 1`] = `
         </td>
       </tr>
       <tr
-        className="trBody"
+        className="1,Mark,Otto,@mdo-body-row"
         onClick={[Function]}
       >
         <td
@@ -2637,7 +2643,7 @@ exports[`TableProvider | sortByKey 2`] = `
     </thead>
     <tbody>
       <tr
-        className="trBody"
+        className="1,Mark,Otto,@mdo-body-row"
         onClick={[Function]}
       >
         <td
@@ -2666,7 +2672,7 @@ exports[`TableProvider | sortByKey 2`] = `
         </td>
       </tr>
       <tr
-        className="trBody"
+        className="2,Jacob,Thornton,@fat-body-row"
         onClick={[Function]}
       >
         <td
@@ -2695,7 +2701,7 @@ exports[`TableProvider | sortByKey 2`] = `
         </td>
       </tr>
       <tr
-        className="trBody"
+        className="3,Larry,the Bird,@twitter-body-row"
         onClick={[Function]}
       >
         <td

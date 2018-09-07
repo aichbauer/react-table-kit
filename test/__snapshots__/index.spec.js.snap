@@ -22,6 +22,7 @@ exports[`render TableProvider 1`] = `
     </thead>
     <tbody>
       <tr
+        className="1,Mark,Otto,@mdo-body-row"
         onClick={[Function]}
       >
         <td
@@ -46,6 +47,7 @@ exports[`render TableProvider 1`] = `
         </td>
       </tr>
       <tr
+        className="2,Jacob,Thornton,@fat-body-row"
         onClick={[Function]}
       >
         <td
@@ -70,6 +72,7 @@ exports[`render TableProvider 1`] = `
         </td>
       </tr>
       <tr
+        className="3,Larry,the Bird,@twitter-body-row"
         onClick={[Function]}
       >
         <td
