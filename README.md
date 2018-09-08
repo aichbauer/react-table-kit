@@ -3,7 +3,7 @@
 [![npm](https://img.shields.io/npm/v/react-table-kit.svg?style=flat-square)](https://www.npmjs.com/package/react-table-kit)
 [![Travis branch](https://img.shields.io/travis/aichbauer/react-table-kit/master.svg?style=flat-square)](https://travis-ci.org/aichbauer/react-table-kit)
 [![Codecov branch](https://img.shields.io/codecov/c/github/aichbauer/react-table-kit/master.svg?style=flat-square)](https://codecov.io/gh/aichbauer/react-table-kit)
-[![storybook](https://img.shields.io/badge/docs%20with-storybook-f1618c.svg?style=flat-square)](https://aichbauer.github.io/react-table-kit)
+[![storybook](https://img.shields.io/badge/docs%20with-storybook-f1618c.svg?style=flat-square)](https://aichbauer.github.io/react-table-kit) [![Greenkeeper badge](https://badges.greenkeeper.io/aichbauer/react-table-kit.svg)](https://greenkeeper.io/)
 
 > A react table component with custom components support and functionality to sort, search, export data, ...
 
