@@ -88,6 +88,6 @@
     "convert-array-to-csv": "^1.0.4",
     "js-file-download": "^0.4.1",
     "prop-types": "^15.6.2",
-    "react-icons": "^3.0.5"
+    "react-icons": "3.0.5"
   }
 }
